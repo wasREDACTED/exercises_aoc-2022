@@ -1,0 +1,49 @@
+# Scoring table
+
+## Part 1
+
+|Move      |Opp |You |Score|
+|---       |--- |--- |---  |
+Rock       |A   |X   |1
+Paper      |B   |Y   |2
+Scissors   |C   |Z   |3
+
+Loss 0
+Draw 3
+Win  6
+
+Calculated Score
+
+|Combo | Outcome | Mv Pt | Total
+|---   |---      |---    |---
+B X    | L       | 1     | 1
+C Y    | L       | 2     | 2
+A Z    | L       | 3     | 3
+A X    | D       | 1     | 4
+B Y    | D       | 2     | 5
+C Z    | D       | 3     | 6
+C X    | W       | 1     | 7
+A Y    | W       | 2     | 8
+B Z    | W       | 3     | 9
+
+## Part 2
+
+Key
+
+Lose| Draw| Win| Rock| Paper| Scissors | Meaning
+|---|---  |--- |---  |---   |---       |---
+ X  | Y   | Z  | A   | B    | C        | Symbol
+
+Part 2 Calculated Score
+
+|Combo | Outcome | Mv Pt | Total
+|---   |---      |---    |---
+B X    | L       | 1     | 1
+C X    | L       | 2     | 2
+A X    | L       | 3     | 3
+A Y    | D       | 1     | 4
+B Y    | D       | 2     | 5
+C Y    | D       | 3     | 6
+C Z    | W       | 1     | 7
+A Z    | W       | 2     | 8
+B Z    | W       | 3     | 9
