@@ -3,7 +3,9 @@
 
 ## Part 1
 
-[<img src="./part1.png?raw=true?v_DATE" width=25% align=right alt="A screenshot of the macOS Shortcut App, showing a breakdown of the described steps.">](./part1.png)
+- *[Image of Shortcut][p1]* [<img src="./part1.png?raw=true?v_DATE" width=25% align=right alt="A screenshot of the macOS Shortcut App, showing the steps described below in the breakdown section.">][p1]
+
+[p1]: ./part1.png
 
 ### Usage
 
@@ -19,14 +21,14 @@
    3. Add sum to dictionary
 3. Get the dictionary's maximum value
 4. Output the result
-<br>
 
----
-<br>
+<br><br>
 
 ## Part 2
 
-[<img src="./part2.png?raw=true?v_DATE" width=25% align=right alt="A screenshot of the macOS Shortcut App, showing a breakdown of the described steps.">](./part2.png)
+- *[Image of Shortcut][p2]* [<img src="./part2.png?raw=true?v_DATE" width=25% align=right alt="A screenshot of the macOS Shortcut App, showing a breakdown of the described steps.">][p2]
+
+[p2]: ./part2.png
 
 ### Usage 2
 
@@ -47,3 +49,8 @@
 
 > **Warning**
 > The character count is pretty lax method to get around the name sort not accounting for numerical value.
+>
+>- *See [Take 2 for Part 2](part2Take2.png)*
+> In Take 2, JavaScript is executed via
+>   + an encoded URL and
+>   + "Get contents of webpage at URL"
